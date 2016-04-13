@@ -1,0 +1,27 @@
+/* BASIC SETUP */
+html,
+body {
+    box-sizing: border-box;
+    font-size: 14px;
+    overflow-x: hidden;
+}
+
+/* reuseable */
+section { padding: 80px 0; }
+
+/* LOGO */
+.logo-container { margin: 30px 0; }
+.logo { width: 530px;}
+
+/* IMAGE PREVIEW */
+.livePreview { width: 100%; }
+
+/* CREATED BY TEXT */
+.created-by {
+    padding: 5px;
+    font-size: 120%;
+    font-weight: 600;
+}
+
+/* VIDEO DESCRIPTION */
+.grayText { color: #8c8c8c; }
